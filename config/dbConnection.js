@@ -10,6 +10,5 @@ var connMySQL = function(){
 }
 
 module.exports = function(){
-    console.log('O auto load do consign carregou o modulo de conexão com o db')
     return connMySQL;
 }
