@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "01_portal_noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobd42/NodeJS.git"
+  },
+  "author": "Fernando Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobd42/NodeJS/issues"
+  },
+  "homepage": "https://github.com/fernandobd42/NodeJS#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
